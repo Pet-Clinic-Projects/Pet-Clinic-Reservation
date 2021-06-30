@@ -16,5 +16,5 @@ Project on animal hospital Reservation, Reception, Payment.
 + JDK: 11
 + gradle: 7.0.2
 + Junit 4
-+ Querydsl: 1.10.10
++ Querydsl: 1.0.10
 + Springboot: 2.5.2
